@@ -2,6 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aldofadillaputra.github.io/recipes-search-app/",
   "dependencies": {
     "lodash.template": "^4.5.0",
     "react": "^16.8.6",
